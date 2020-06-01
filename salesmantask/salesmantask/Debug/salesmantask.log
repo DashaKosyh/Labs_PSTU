@@ -1,0 +1,50 @@
+﻿  Graph.cpp
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(129,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(179,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(181,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(400,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(423,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(431,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(455,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(456,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(591,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(606,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(688,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(691,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(707,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(708,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(715,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(718,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(735,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(736,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(739,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(740,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(747,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(750,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(766,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(767,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(774,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(777,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(794,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(795,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(798,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(799,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(806,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(809,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(825,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(826,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(833,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(836,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(852,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(853,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(859,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(885,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(896,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(926,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(927,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(931,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(932,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(935,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Dasha\source\repos\salesmantask\salesmantask\Graph.cpp(935,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  salesmantask.vcxproj -> C:\Users\Dasha\source\repos\salesmantask\Debug\salesmantask.exe
