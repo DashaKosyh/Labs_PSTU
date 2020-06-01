@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(745,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(744,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(744,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(747,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(746,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(746,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(749,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(748,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(748,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(751,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(750,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\MyForm.h(750,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  AskForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calc.vcxproj -> C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\x64\Debug\calc.exe

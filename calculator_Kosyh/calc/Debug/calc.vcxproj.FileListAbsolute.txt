@@ -1,0 +1,4 @@
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\Debug\calc.vcxprojAssemblyReference.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\Debug\calc.MyForm.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\Debug\calc.vcxproj.GenerateResource.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\Debug\calc.AskForm1.resources

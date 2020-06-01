@@ -1,0 +1,16 @@
+C:\Users\Dasha\Downloads\calc\calc\calc\x64\Debug\calc.vcxprojAssemblyReference.cache
+C:\Users\Dasha\Downloads\calc\calc\calc\x64\Debug\calc.AskForm1.resources
+C:\Users\Dasha\Downloads\calc\calc\calc\x64\Debug\calc.MyForm.resources
+C:\Users\Dasha\Downloads\calc\calc\calc\x64\Debug\calc.vcxproj.GenerateResource.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc2\calc\x64\Debug\calc.vcxprojAssemblyReference.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc2\calc\x64\Debug\calc.AskForm1.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc2\calc\x64\Debug\calc.MyForm.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc2\calc\x64\Debug\calc.vcxproj.GenerateResource.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc\calc\x64\Debug\calc.vcxprojAssemblyReference.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc\calc\x64\Debug\calc.AskForm1.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc\calc\x64\Debug\calc.MyForm.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calc\calc\x64\Debug\calc.vcxproj.GenerateResource.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\x64\Debug\calc.vcxprojAssemblyReference.cache
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\x64\Debug\calc.AskForm1.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\x64\Debug\calc.MyForm.resources
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc1\calculator_Kosyh\calc\x64\Debug\calc.vcxproj.GenerateResource.cache

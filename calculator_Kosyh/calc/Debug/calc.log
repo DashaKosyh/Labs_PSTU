@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(505,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(506,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(507,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(509,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(510,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(511,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(513,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(514,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(515,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(517,23): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(518,23): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\calc\MyForm.h(519,23): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+  AskForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calc.vcxproj -> C:\Users\afd-e\OneDrive\Рабочий стол\Информатика\calc\Debug\calc.exe
